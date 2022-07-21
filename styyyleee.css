@@ -1,0 +1,17 @@
+body{  
+    background-color: cornflowerblue;
+}
+hr{
+    background-color:cornflowerblue;
+    border-style:none;
+    border-top-style: dotted;
+    border-color: darkred;
+    border-width: 5px;
+    width: 30%;
+}
+h1,h2{
+    color:aliceblue;
+}
+h3{
+    color: aliceblue;
+}
